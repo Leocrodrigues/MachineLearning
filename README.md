@@ -7,7 +7,7 @@ Dentre o conteúdo apresenta-se:
 
 - Na parte de Clustering, é realizado agrupamentos por diferentes modelos, como kmeans, dbscan e meanshift.
 
-- Dados com muitas dimnensões 
+- Dados com muitas dimensões 
 
 - Por fim, otimização de modelos através de hiperparâmetros.
 
