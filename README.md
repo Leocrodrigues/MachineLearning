@@ -9,6 +9,8 @@ Dentre o conteúdo apresenta-se:
 
 - Dados com muitas dimensões 
 
+- Credit Scoring, uma forma básica de se realizar lidando com dados sensíveis
+
 - Por fim, otimização de modelos através de hiperparâmetros.
 
 
