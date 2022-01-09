@@ -14,6 +14,6 @@ Dentre o conteúdo apresenta-se:
 - Por fim, otimização de modelos através de hiperparâmetros.
 
 
-Destaco que, meus estudos estão em fase de treinamento, não sou especialista e nem trabalho ainda na área. Estou consolidando meus conhecimentos, podendo haver erros então qualquer erro ou crítica é bem-vinda. 
+Destaco que, meus estudos estão em fase de treinamento, não sou especialista e nem trabalho ainda na área. Estou consolidando meus conhecimentos, podendo haver erros então qualquer  crítica construtiva é bem-vinda. 
 
 Obrigado e bom uso!
